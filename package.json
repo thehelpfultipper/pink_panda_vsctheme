@@ -1,8 +1,24 @@
 {
-  "name": "pink-panda",
-  "displayName": "pink-panda",
-  "description": "Pink Panda Color Theme",
+  "name": "pinkpanda-dark-theme",
+  "displayName": "Pink Panda Dark",
+  "description": "A cozy dark VS Code theme.",
   "version": "0.0.1",
+  "publisher": "TheHelpfulTipper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thehelpfultipper/pink_panda_vsctheme.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "cozy dark theme",
+    "cozy theme",
+    "thehelpfultipper",
+    "tht",
+    "tht dark",
+    "thehelpfultipper dark",
+    "dark pink theme"
+  ],
   "engines": {
     "vscode": "^1.72.0"
   },
