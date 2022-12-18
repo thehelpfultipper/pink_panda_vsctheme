@@ -1,0 +1,21 @@
+{
+  "name": "pink-panda",
+  "displayName": "pink-panda",
+  "description": "Pink Panda Color Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pink Panda Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pink Panda Theme-color-theme.json"
+      }
+    ]
+  }
+}
