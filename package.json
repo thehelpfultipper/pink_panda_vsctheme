@@ -28,7 +28,7 @@
   "icon": "images/pink_panda_dark_vs_code_theme_icon.png",
   "galleryBanner": {
     "color": "#242424",
-    "theme": "light"
+    "theme": "dark"
   },
   "contributes": {
     "themes": [
