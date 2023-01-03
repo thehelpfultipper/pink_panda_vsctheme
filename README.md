@@ -1,4 +1,5 @@
 # Pink Panda Theme 🐼
+<div align="center"><img src="./images/Pink_Panda_Theme_Color_Logo.png" width="300" height="300" />
 
 ## A Cozy Dark VS Code Theme 
 
@@ -20,6 +21,8 @@ Pink Panda is designed to be easy on the eyes and preserve readability.
 <br /><br />
 
 Get yours installed right now! 
-
+  
+**Link:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=TheHelpfulTipper.pinkpanda-dark-theme)
+</div>
 
 
