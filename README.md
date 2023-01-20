@@ -4,6 +4,8 @@
 ## A Cozy Dark VS Code Theme 
 
 Customize your coding experience with THT's Pink Panda dark theme for VS Code editor. 
+
+Check out how we made it: [How To Create A Custom Visual Studio Code Theme](https://thehelpfultipper.com/create-a-custom-visual-studio-code-theme/)
 <br /><br />
 
 A blend of pastel dark colors contrasted with soft pinks make Pink Panda a pleasure to work with. 
